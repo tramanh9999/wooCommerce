@@ -1,0 +1,130 @@
+2020-11-09T12:06:37+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5f8dca27a92ae
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 70e8e7c0db
+            [name] => KingKongGym
+            [domain] => http://localhost/KingKongGym
+            [email_address] => barnettmartlink@gmail.com
+            [currency_code] => VND
+            [money_format] => ₫
+            [primary_locale] => vi_VN
+            [timezone] => +00:00
+            [phone] => 0964264511
+            [address] => Array
+                (
+                    [address1] => Tân Bình
+                    [city] => Ho Chi Minh
+                    [province] => Ho Chi Minh
+                    [postal_code] => 123456
+                    [country] => VN
+                    [country_code] => VN
+                    [phone] => 0964264511
+                    [company] => KingKongGym
+                )
+
+        )
+
+)
+
+2020-11-09T12:06:41+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5f8dca27a92ae
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 70e8e7c0db
+            [name] => KingKongGym
+            [domain] => http://localhost/KingKongGym
+            [email_address] => barnettmartlink@gmail.com
+            [currency_code] => VND
+            [money_format] => ₫
+            [primary_locale] => vi_VN
+            [timezone] => +00:00
+            [phone] => 0964264511
+            [address] => Array
+                (
+                    [address1] => Tân Bình
+                    [city] => Ho Chi Minh
+                    [province] => Ho Chi Minh
+                    [postal_code] => 123456
+                    [country] => VN
+                    [country_code] => VN
+                    [phone] => 0964264511
+                    [company] => KingKongGym
+                )
+
+        )
+
+)
+
+2020-11-09T12:06:44+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5f8dca27a92ae
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 70e8e7c0db
+            [name] => KingKongGym
+            [domain] => http://localhost/KingKongGym
+            [email_address] => barnettmartlink@gmail.com
+            [currency_code] => VND
+            [money_format] => ₫
+            [primary_locale] => vi_VN
+            [timezone] => +00:00
+            [phone] => 0964264511
+            [address] => Array
+                (
+                    [address1] => Tân Bình
+                    [city] => Ho Chi Minh
+                    [province] => Ho Chi Minh
+                    [postal_code] => 123456
+                    [country] => VN
+                    [country_code] => VN
+                    [phone] => 0964264511
+                    [company] => KingKongGym
+                )
+
+        )
+
+)
+
+2020-11-09T12:06:47+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Mon, Nov 9, 2020 12:06 PM
+2020-11-09T12:06:48+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2020-11-09T12:07:32+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2020-11-09T12:07:32+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2020-11-09T12:07:32+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2020-11-09T12:07:32+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2020-11-09T12:07:32+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 29
+2020-11-09T12:07:32+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 30
+2020-11-09T12:07:32+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 31
+2020-11-09T12:07:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 32
+2020-11-09T12:07:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 33
+2020-11-09T12:07:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 34
+2020-11-09T12:07:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 35
+2020-11-09T12:07:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 36
+2020-11-09T12:07:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 37
+2020-11-09T12:07:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 38
+2020-11-09T12:07:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 39
+2020-11-09T12:07:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 40
+2020-11-09T12:07:35+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2020-11-09T12:07:36+00:00 NOTICE product_submit.success :: addStoreProduct :: #29
+2020-11-09T12:07:38+00:00 NOTICE product_submit.success :: addStoreProduct :: #30
+2020-11-09T12:07:39+00:00 NOTICE product_submit.success :: addStoreProduct :: #31
+2020-11-09T12:07:40+00:00 NOTICE product_submit.success :: addStoreProduct :: #32
+2020-11-09T12:07:41+00:00 NOTICE product_submit.success :: addStoreProduct :: #33
+2020-11-09T12:07:42+00:00 NOTICE product_submit.success :: addStoreProduct :: #34
+2020-11-09T12:07:44+00:00 NOTICE product_submit.success :: addStoreProduct :: #35
+2020-11-09T12:07:45+00:00 NOTICE product_submit.success :: addStoreProduct :: #36
+2020-11-09T12:07:46+00:00 NOTICE product_submit.success :: addStoreProduct :: #37
+2020-11-09T12:07:47+00:00 NOTICE product_submit.success :: addStoreProduct :: #38
+2020-11-09T12:07:48+00:00 NOTICE product_submit.success :: addStoreProduct :: #39
+2020-11-09T12:07:50+00:00 NOTICE product_submit.success :: addStoreProduct :: #40
+2020-11-09T12:07:56+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2020-11-09T12:07:58+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2020-11-09T12:08:48+00:00 NOTICE sync.completed :: Finished Sync :: Mon, Nov 9, 2020 12:08 PM (total time: 00:02:01)

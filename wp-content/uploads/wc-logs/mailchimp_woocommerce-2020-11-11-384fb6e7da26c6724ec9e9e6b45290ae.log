@@ -1,0 +1,111 @@
+2020-11-11T08:53:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 6
+2020-11-11T08:54:16+00:00 NOTICE member.sync :: Updated Member anhthtse141171@fpt.edu.vn ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+        )
+
+)
+
+2020-11-11T08:56:44+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 7
+2020-11-11T08:58:23+00:00 NOTICE member.sync :: Subscribed Member banmuontrothanhai@gmail.com :: Array
+(
+    [status_if_new] => 1
+    [merge_fields] => Array
+        (
+        )
+
+)
+
+2020-11-11T09:07:23+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 6469589d1a148166445eed731b6e52c8
+2020-11-11T09:07:31+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 6469589d1a148166445eed731b6e52c8
+2020-11-11T09:07:32+00:00 NOTICE abandoned_cart.success :: email: banmuontrothanhai@gmail.com :: checkout_url: http://localhost/KingKongGym/checkout/?mc_cart_id=6469589d1a148166445eed731b6e52c8
+2020-11-11T09:07:33+00:00 NOTICE cart.member.updated :: Updated banmuontrothanhai@gmail.com subscriber status to subscribed and language to en
+2020-11-11T09:07:35+00:00 NOTICE abandoned_cart.success :: email: banmuontrothanhai@gmail.com :: checkout_url: http://localhost/KingKongGym/checkout/?mc_cart_id=6469589d1a148166445eed731b6e52c8
+2020-11-11T09:09:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 6469589d1a148166445eed731b6e52c8
+2020-11-11T09:10:48+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 6469589d1a148166445eed731b6e52c8
+2020-11-11T09:10:49+00:00 NOTICE abandoned_cart.success :: email: banmuontrothanhai@gmail.com :: checkout_url: http://localhost/KingKongGym/checkout/?mc_cart_id=6469589d1a148166445eed731b6e52c8
+2020-11-11T09:10:51+00:00 NOTICE abandoned_cart.success :: email: banmuontrothanhai@gmail.com :: checkout_url: http://localhost/KingKongGym/checkout/?mc_cart_id=6469589d1a148166445eed731b6e52c8
+2020-11-11T09:12:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 6469589d1a148166445eed731b6e52c8
+2020-11-11T09:12:55+00:00 NOTICE abandoned_cart.success :: email: banmuontrothanhai@gmail.com :: checkout_url: http://localhost/KingKongGym/checkout/?mc_cart_id=6469589d1a148166445eed731b6e52c8
+2020-11-11T09:18:27+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 6469589d1a148166445eed731b6e52c8
+2020-11-11T09:18:35+00:00 NOTICE abandoned_cart.success :: email: banmuontrothanhai@gmail.com :: checkout_url: http://localhost/KingKongGym/checkout/?mc_cart_id=6469589d1a148166445eed731b6e52c8
+2020-11-11T09:18:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 6469589d1a148166445eed731b6e52c8
+2020-11-11T09:18:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 6469589d1a148166445eed731b6e52c8
+2020-11-11T09:19:22+00:00 NOTICE abandoned_cart.success :: email: banmuontrothanhai@gmail.com :: checkout_url: http://localhost/KingKongGym/checkout/?mc_cart_id=6469589d1a148166445eed731b6e52c8
+2020-11-11T09:19:23+00:00 NOTICE abandoned_cart.success :: email: banmuontrothanhai@gmail.com :: checkout_url: http://localhost/KingKongGym/checkout/?mc_cart_id=6469589d1a148166445eed731b6e52c8
+2020-11-11T09:19:44+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 6469589d1a148166445eed731b6e52c8
+2020-11-11T09:20:36+00:00 NOTICE abandoned_cart.success :: email: banmuontrothanhai@gmail.com :: checkout_url: http://localhost/KingKongGym/checkout/?mc_cart_id=6469589d1a148166445eed731b6e52c8
+2020-11-11T09:20:56+00:00 NOTICE ac.cart_swap :: Deleted cart [banmuontrothanhai@gmail.com] :: ID [6469589d1a148166445eed731b6e52c8]
+2020-11-11T09:20:57+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id cd0a68c01c465cda73b4dbee9e4b3a07
+2020-11-11T09:21:00+00:00 NOTICE abandoned_cart.success :: email: anhthtse141171@fpt.edu.vn :: checkout_url: http://localhost/KingKongGym/checkout/?mc_cart_id=cd0a68c01c465cda73b4dbee9e4b3a07
+2020-11-11T09:21:01+00:00 NOTICE cart.member.updated :: Updated anhthtse141171@fpt.edu.vn subscriber status to subscribed and language to en
+2020-11-11T09:21:32+00:00 NOTICE ac.cart_swap :: Deleted cart [anhthtse141171@fpt.edu.vn] :: ID [cd0a68c01c465cda73b4dbee9e4b3a07]
+2020-11-11T09:21:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 6469589d1a148166445eed731b6e52c8
+2020-11-11T09:22:19+00:00 NOTICE abandoned_cart.success :: email: banmuontrothanhai@gmail.com :: checkout_url: http://localhost/KingKongGym/checkout/?mc_cart_id=6469589d1a148166445eed731b6e52c8
+2020-11-11T09:22:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2020-11-11T09:22:25+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 49
+2020-11-11T09:22:29+00:00 NOTICE member.sync :: Updated Member banmuontrothanhai@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Tu
+            [LNAME] => aNH
+        )
+
+)
+
+2020-11-11T09:22:29+00:00 NOTICE debug :: Order ID 49 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://localhost/KingKongGym/KingKongGym/?wc-ajax=get_refreshed_fragments
+        )
+
+)
+
+2020-11-11T09:24:31+00:00 ERROR order_submit.error :: addStoreOrder :: #49 :: Error Code 400 :: <p>order_url: That is not a valid URL: http://localhost/KingKongGym/my-account/view-order/49/</p> on 1885 in C:\Program Files\Xampp\htdocs\KingKongGym\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2020-11-11T09:36:48+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2020-11-11T09:37:33+00:00 NOTICE member.sync :: Updated Member banmuontrothanhai@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Tu
+            [LNAME] => aNH
+        )
+
+)
+
+2020-11-11T09:37:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 6469589d1a148166445eed731b6e52c8
+2020-11-11T09:38:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2020-11-11T09:38:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 50
+2020-11-11T09:38:19+00:00 NOTICE debug :: Order ID 50 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-11-11T09:38:32+00:00 NOTICE abandoned_cart.success :: email: banmuontrothanhai@gmail.com :: checkout_url: http://localhost/KingKongGym/checkout/?mc_cart_id=6469589d1a148166445eed731b6e52c8
+2020-11-11T09:38:34+00:00 NOTICE member.sync :: Updated Member banmuontrothanhai@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Tu
+            [LNAME] => aNH
+        )
+
+)
+
+2020-11-11T09:41:36+00:00 NOTICE system.debug :: order 50 is in on-hold status, and is being skipped for now.
+2020-11-11T09:46:11+00:00 NOTICE product.deleted :: deleted product 29
+2020-11-11T09:50:29+00:00 NOTICE debug :: Order ID 50 was on-hold and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-11-11T09:50:29+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 50
+2020-11-11T09:51:56+00:00 NOTICE product.deleted :: deleted product 40
+2020-11-11T09:52:35+00:00 NOTICE order_sumbit :: #50 has a financial status of cancelled and was skipped.
